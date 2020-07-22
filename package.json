@@ -1,5 +1,5 @@
 {
-  "name": "pos-machine-tasking",
+  "name": "s",
   "version": "1.0.0",
   "description": "A cash register (POS) system is used in the store for settlement of the store. This cashier will settle and print the receipt (Receipt) according to the item(Item) in the customer's shopping cart (Cart) at the time of settlement.",
   "main": "main.js",
@@ -10,5 +10,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichuwen/pos-machine-2020-7-20-13-59-35-216.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lichuwen/pos-machine-2020-7-20-13-59-35-216/issues"
+  },
+  "homepage": "https://github.com/lichuwen/pos-machine-2020-7-20-13-59-35-216#readme"
 }
